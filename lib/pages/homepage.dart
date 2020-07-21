@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage>
     with SingleTickerProviderStateMixin {
   Map worldData = {};
   bool isCollapsed = true;
-  final Duration duration = const Duration(milliseconds: 500);
+  final Duration duration = const Duration(milliseconds: 300);
   AnimationController _controller;
   Animation<double> _scaleAnimation;
   Animation<double> _menuScaleAnimation;
@@ -259,6 +259,7 @@ class _HomePageState extends State<HomePage>
                   mainAxisSize: MainAxisSize.max,
                   children: <Widget>[
                     IconButton(
+                      
                       icon: SvgPicture.asset('assets/icons/menu.svg'),
                       onPressed: () {
                         setState(() {
