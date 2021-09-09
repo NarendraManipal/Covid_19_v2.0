@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+Covid-19 tracker is a Flutter based application for android, which shows the statistics of the world.
 
 # Below are some of the snapshots
 ![Menu](https://user-images.githubusercontent.com/39917088/132694027-11a1f7b9-1281-4ce8-9cce-542b9a1c6ed3.jpg)
