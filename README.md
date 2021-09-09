@@ -2,21 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#00030720-fae3-4c72-8aea-ad01ba17adf8"# Covid_19_Flutter_app_v2.0" 
-
 
 # Below are some of the snapshots
 ![Home-page](https://user-images.githubusercontent.com/39917088/132692287-bf8eb7e6-08b6-4d4a-83d4-99dce56a8565.jpg)
+![Menu](https://user-images.githubusercontent.com/39917088/132692568-a73553c0-c85f-4736-ba69-9aedb40f693f.jpg)
+![Country-specific-data](https://user-images.githubusercontent.com/39917088/132692507-3e0e2d0a-cfbb-4d06-b876-360c9bd04f8e.jpg)
+![Countries-data](https://user-images.githubusercontent.com/39917088/132692704-afb59cc3-a1bc-4436-84df-659623404d77.jpg)
+![country-search](https://user-images.githubusercontent.com/39917088/132692611-c4b736d0-aa62-4f3f-bfd7-2c1a0b6fcb4b.jpg)
+![World-wide-data](https://user-images.githubusercontent.com/39917088/132692727-2d3ed801-ffbd-4e2e-8673-1b8cccf298c5.jpg)
