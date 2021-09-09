@@ -4,9 +4,6 @@ A new Flutter project.
 
 
 # Below are some of the snapshots
-![Hone-page](https://user-images.githubusercontent.com/39917088/132693018-8a98cd61-b792-4658-b9b5-c3369390ec11.jpg)
-
-
 ![Home-page](https://user-images.githubusercontent.com/39917088/132692287-bf8eb7e6-08b6-4d4a-83d4-99dce56a8565.jpg)
 ![Menu](https://user-images.githubusercontent.com/39917088/132692568-a73553c0-c85f-4736-ba69-9aedb40f693f.jpg)
 ![Country-specific-data](https://user-images.githubusercontent.com/39917088/132692507-3e0e2d0a-cfbb-4d06-b876-360c9bd04f8e.jpg)
